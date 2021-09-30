@@ -3,4 +3,5 @@
 
 • The main priority of this project was obtaining photo-realistic images (minimum 720x720p) in under 40 minutes. This requirement was achieved by optimising the path tracing algorithm through k-d trees and the Russian Roulette technique, as well as using a large enough number of photons (600k normal photons, 300k caustic photons) and the BRDF function.
 
-• This projects helped me strengthen my working knowledge of 3D geometry and linear algebra.
+
+![alt text](https://github.com/mostwantedd/Computer-Graphics/blob/main/a12_1.ppm)
